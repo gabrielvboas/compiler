@@ -1,0 +1,66 @@
+const
+	N = 10;
+end const
+
+typedef
+	caracter = char;
+end typedef
+
+struct MyStruct begin
+	int x, y;
+	char name[20];
+end struct
+
+vars
+	MyStruct m;
+end vars
+
+function int fatorial_recursivo(int n) begin
+	vars
+		int result;
+	end vars
+
+	if (n <=1)  then
+		result = 1;
+	else
+		result = n * fatorial_recursivo(n - 1);
+	end if
+
+	return result;
+end function
+
+function int fatorial_iterativo(int n) begin
+	vars
+		int fatorial;
+	end vars
+
+	fatorial = 1;
+	while (n>0) do
+	    fatorial = fatorial * n;
+	    n = n - 1;
+	end while
+
+	return fatorial;
+end function
+
+function void printStruct() begin
+	m.x = 10;
+	m.y = 20;
+
+	m.name[2] = 'c';
+
+	print m.x, m.y, m.name[2];
+end function
+
+program begin
+	vars
+		int  fatorial_10_recursivo;
+	end vars
+
+	fatorial_10_recursivo = fatorial_recursivo(10);
+
+	call printStruct();
+
+	print fatorial_10_recursivo;
+	print fatorial_iterativo(10);
+end program

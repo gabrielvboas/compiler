@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1444109025 source:c:\users\gabriel\desktop\compiler\analisador_lexico\analisar_lexico_teste.c
+	<stdio.h>
+	<stdlib.h>
+	"analisador_lexico.h"
+
+1444111019 c:\users\gabriel\desktop\compiler\analisador_lexico\analisador_lexico.h
+
+1385316878 source:c:\users\gabriel\desktop\compiler\compiler\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1444111062 source:c:\users\gabriel\desktop\compiler\analisador_lexico\analisador_lexico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"analisador_lexico.h"
+

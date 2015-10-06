@@ -1,0 +1,1407 @@
+-------------------------------
+Token
+Class: VAR
+Value: const
+Position: line 0, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: N
+Position: line 1, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: =
+Position: line 1, column 3
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 10
+Position: line 1, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 1, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 2, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: const
+Position: line 2, column 4
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: typedef
+Position: line 4, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: caracter
+Position: line 5, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: =
+Position: line 5, column 10
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: char
+Position: line 5, column 12
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 5, column 16
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 6, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: typedef
+Position: line 6, column 4
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: struct
+Position: line 8, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: MyStruct
+Position: line 8, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: begin
+Position: line 8, column 16
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: int
+Position: line 9, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: x
+Position: line 9, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ,
+Position: line 9, column 6
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: y
+Position: line 9, column 8
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 9, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: char
+Position: line 10, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: name
+Position: line 10, column 6
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: [
+Position: line 10, column 10
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 20
+Position: line 10, column 11
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ]
+Position: line 10, column 13
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 10, column 14
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 11, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: struct
+Position: line 11, column 4
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: vars
+Position: line 13, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: MyStruct
+Position: line 14, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: m
+Position: line 14, column 10
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 14, column 11
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 15, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: vars
+Position: line 15, column 4
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: function
+Position: line 17, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: int
+Position: line 17, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial_recursivo
+Position: line 17, column 13
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: (
+Position: line 17, column 31
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: int
+Position: line 17, column 32
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: n
+Position: line 17, column 36
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: )
+Position: line 17, column 37
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: begin
+Position: line 17, column 39
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: vars
+Position: line 18, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: int
+Position: line 19, column 2
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: result
+Position: line 19, column 6
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 19, column 12
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 20, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: vars
+Position: line 20, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: if
+Position: line 22, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: (
+Position: line 22, column 4
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: n
+Position: line 22, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: <=
+Position: line 22, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 1
+Position: line 22, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: )
+Position: line 22, column 10
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: then
+Position: line 22, column 13
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: result
+Position: line 23, column 2
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: =
+Position: line 23, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 1
+Position: line 23, column 11
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 23, column 12
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: else
+Position: line 24, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: result
+Position: line 25, column 2
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: =
+Position: line 25, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: n
+Position: line 25, column 11
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: *
+Position: line 25, column 13
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial_recursivo
+Position: line 25, column 15
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: (
+Position: line 25, column 33
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: n
+Position: line 25, column 34
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: -
+Position: line 25, column 36
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 1
+Position: line 25, column 38
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: )
+Position: line 25, column 39
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 25, column 40
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 26, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: if
+Position: line 26, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: return
+Position: line 28, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: result
+Position: line 28, column 8
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 28, column 14
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 29, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: function
+Position: line 29, column 4
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: function
+Position: line 31, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: int
+Position: line 31, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial_iterativo
+Position: line 31, column 13
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: (
+Position: line 31, column 31
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: int
+Position: line 31, column 32
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: n
+Position: line 31, column 36
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: )
+Position: line 31, column 37
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: begin
+Position: line 31, column 39
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: vars
+Position: line 32, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: int
+Position: line 33, column 2
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial
+Position: line 33, column 6
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 33, column 14
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 34, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: vars
+Position: line 34, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial
+Position: line 36, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: =
+Position: line 36, column 10
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 1
+Position: line 36, column 12
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 36, column 13
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: while
+Position: line 37, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: (
+Position: line 37, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: n
+Position: line 37, column 8
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: >
+Position: line 37, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 0
+Position: line 37, column 10
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: )
+Position: line 37, column 11
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: do
+Position: line 37, column 13
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial
+Position: line 38, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: =
+Position: line 38, column 14
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial
+Position: line 38, column 16
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: *
+Position: line 38, column 25
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: n
+Position: line 38, column 27
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 38, column 28
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: n
+Position: line 39, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: =
+Position: line 39, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: n
+Position: line 39, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: -
+Position: line 39, column 11
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 1
+Position: line 39, column 13
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 39, column 14
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 40, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: while
+Position: line 40, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: return
+Position: line 42, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial
+Position: line 42, column 8
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 42, column 16
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 43, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: function
+Position: line 43, column 4
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: function
+Position: line 45, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: void
+Position: line 45, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: printStruct
+Position: line 45, column 14
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: (
+Position: line 45, column 25
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: )
+Position: line 45, column 26
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: begin
+Position: line 45, column 28
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: m
+Position: line 46, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: .
+Position: line 46, column 2
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: x
+Position: line 46, column 3
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: =
+Position: line 46, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 10
+Position: line 46, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 46, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: m
+Position: line 47, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: .
+Position: line 47, column 2
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: y
+Position: line 47, column 3
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: =
+Position: line 47, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 20
+Position: line 47, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 47, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: m
+Position: line 49, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: .
+Position: line 49, column 2
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: name
+Position: line 49, column 3
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: [
+Position: line 49, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 2
+Position: line 49, column 8
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ]
+Position: line 49, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: =
+Position: line 49, column 11
+-------------------------------
+
+-------------------------------
+Token
+Class: CHR
+Value: 'c'
+Position: line 49, column 13
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 49, column 16
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: print
+Position: line 51, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: m
+Position: line 51, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: .
+Position: line 51, column 8
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: x
+Position: line 51, column 9
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ,
+Position: line 51, column 10
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: m
+Position: line 51, column 12
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: .
+Position: line 51, column 13
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: y
+Position: line 51, column 14
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ,
+Position: line 51, column 15
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: m
+Position: line 51, column 17
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: .
+Position: line 51, column 18
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: name
+Position: line 51, column 19
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: [
+Position: line 51, column 23
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 2
+Position: line 51, column 24
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ]
+Position: line 51, column 25
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 51, column 26
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 52, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: function
+Position: line 52, column 4
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: program
+Position: line 54, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: begin
+Position: line 54, column 8
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: vars
+Position: line 55, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: int
+Position: line 56, column 2
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial_10_recursivo
+Position: line 56, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 56, column 28
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 57, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: vars
+Position: line 57, column 5
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial_10_recursivo
+Position: line 59, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: =
+Position: line 59, column 23
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial_recursivo
+Position: line 59, column 25
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: (
+Position: line 59, column 43
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 10
+Position: line 59, column 44
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: )
+Position: line 59, column 46
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 59, column 47
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: call
+Position: line 61, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: printStruct
+Position: line 61, column 6
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: (
+Position: line 61, column 17
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: )
+Position: line 61, column 18
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 61, column 19
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: print
+Position: line 63, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial_10_recursivo
+Position: line 63, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 63, column 28
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: print
+Position: line 64, column 1
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: fatorial_iterativo
+Position: line 64, column 7
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: (
+Position: line 64, column 25
+-------------------------------
+
+-------------------------------
+Token
+Class: INT
+Value: 10
+Position: line 64, column 26
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: )
+Position: line 64, column 28
+-------------------------------
+
+-------------------------------
+Token
+Class: OPR
+Value: ;
+Position: line 64, column 29
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: end
+Position: line 65, column 0
+-------------------------------
+
+-------------------------------
+Token
+Class: VAR
+Value: program
+Position: line 65, column 4
+-------------------------------
+
+-------------------------------
+Token
+Class: EOA
+Value: (null)
+Position: line 0, column 0
+-------------------------------
+
